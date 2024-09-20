@@ -61,7 +61,7 @@ pip install mamba-ssm[causal-conv1d]
 ```
 Dependent on [flash-attn](https://github.com/Dao-AILab/flash-attention), [causal-conv1d](https://github.com/Dao-AILab/causal-conv1d), [mamba-ssm](https://github.com/state-spaces/mamba)
 
-First install from here:
+Install from here:
 ```
 pip install vipervlm
 ```
@@ -169,3 +169,4 @@ The paper is coming soon. Meanwhile, please use the following to cite:
   year={2024}
 }
 ```
+
