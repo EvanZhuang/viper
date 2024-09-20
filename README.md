@@ -129,7 +129,7 @@ text_outputs = tokenizer.batch_decode(cont, skip_special_tokens=True)[0]
 ## Throughput Analysis
 Viper-Jamba-52B's active parameter size is only 12B.
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/6438ccbb3b46237de3d052e8/16SScCnjiMMMBkibRd7JD.png)
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/6438ccbb3b46237de3d052e8/9WMOvMv24vJTLTFTHTzBW.png)
 
 ## Dataset
 We train our models on [Cambrian-7M](https://github.com/cambrian-mllm/cambrian).
