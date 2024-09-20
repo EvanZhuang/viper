@@ -73,7 +73,7 @@ from viper.model.builder import load_pretrained_model
 from viper.conversation import conv_templates
 from viper.mm_utils import get_model_name_from_path, process_images, tokenizer_image_token
 
-model_path = ""
+model_path = "ViperVLM/Viper-Jamba-52B"
 model_name = get_model_name_from_path(model_path)
 tokenizer, model, image_processor, _ = load_pretrained_model(model_path, None, model_name, use_flash_attn=True)
 model.eval()
