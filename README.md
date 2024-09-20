@@ -147,7 +147,7 @@ In the second stage, we introduce medium-resolution inputs, expanding the modelâ
 Finally, in the high-resolution stage, the model is trained on longer sequences with a broader range of input variability, enhancing its ability to generalize to diverse, complex visual and linguistic tasks. 
 This staged approach ensures a smooth transition from coarse to fine-grained learning, while maintaining models' capabilities.
 
-
+| Traing Config |  |
 | -------- | ------- |
 | GPUs  | 128 H100-80G   |
 | Training time | 14 Days     |
